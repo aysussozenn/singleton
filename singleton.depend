@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1656619604 source:c:\users\user\onedrive - ankara yýldýrým beyazýt Üniversitesi\masaüstü\singleton\singleton\main.cpp
+	<iostream>
+	"base.h"
+	"lazySingleton.h"
+	"threadedLazyLoading.h"
+	<thread>
+
+1656617891 source:c:\users\user\onedrive - ankara yýldýrým beyazýt Üniversitesi\masaüstü\singleton\singleton\src\base.cpp
+	"base.h"
+
+1656618715 c:\users\user\onedrive - ankara yýldýrým beyazýt Üniversitesi\masaüstü\singleton\singleton\include\base.h
+	<iostream>
+
+1656618715 c:\users\user\onedrive - ankara yýldýrým beyazýt Üniversitesi\masaüstü\singleton\singleton\include\lazysingleton.h
+	<iostream>
+
+1656619158 source:c:\users\user\onedrive - ankara yýldýrým beyazýt Üniversitesi\masaüstü\singleton\singleton\src\lazysingleton.cpp
+	"lazySingleton.h"
+
+1656619604 c:\users\user\onedrive - ankara yýldýrým beyazýt Üniversitesi\masaüstü\singleton\singleton\include\threadedlazyloading.h
+	<iostream>
+
+1656621571 source:c:\users\user\onedrive - ankara yýldýrým beyazýt Üniversitesi\masaüstü\singleton\singleton\src\threadedlazyloading.cpp
+	"threadedLazyLoading.h"
+
